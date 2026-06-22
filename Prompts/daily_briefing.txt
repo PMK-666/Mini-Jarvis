@@ -4,7 +4,11 @@ Oppgave:
 - Oppsummer e-poster (kort)
 - Forklar hva som skjer i prosjektene mine
 - Gi meg dagens møter
-- Fortell hva jeg bør gjøre i dag (3 konkrete ting)
+
+Output format:
+1. Status (maks 3 linjer)
+2. Viktigste i dag
+3. 3 konkrete actions (prioritert)
 
 Prioriter det viktigste først.
 Hvis noe er kritisk, si det tydelig.
