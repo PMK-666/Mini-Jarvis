@@ -6,4 +6,7 @@ Oppgave:
 - Gi meg dagens møter
 - Fortell hva jeg bør gjøre i dag (3 konkrete ting)
 
+Prioriter det viktigste først.
+Hvis noe er kritisk, si det tydelig.
+
 Vær kort og konkret.
